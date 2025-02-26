@@ -7,6 +7,6 @@
 🔹 Passion: Web Development 🌍
 🔹 Cool Project Alert: Meheng – My AI voice assistant with 21+ features! 🎙🤖
 
-🚀 Entrepreneur on a Mission! I love turning ideas into reality and exploring innovative solutions (ask me about my makhana export brand 👀).
+🚀 Entrepreneur on a Mission! I love turning ideas into reality and exploring innovative solutions. 👀
 
 📌 Always learning, always building. Follow me to see what I create next! 🛠✨
