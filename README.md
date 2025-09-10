@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Mohammad Yasir Eqbal!
+# 👋 Hey there, I’m Yasir Eqbal!
 ## 💻 Pursuing B.Tech CSE (AI & ML) | Aspiring Software & Web Developer | Entrepreneur at heart
 
 👨‍💻 Code, Coffee, and Creativity! I build things for the web, experiment with AI, and occasionally break stuff just to fix it again.
