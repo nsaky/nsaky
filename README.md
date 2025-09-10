@@ -5,7 +5,7 @@
 
 🔹 Tech Stack: Python 🐍 | MySQL 🛢 | JavaScript ⚡ | HTML & CSS 🎨 | React (Basics) ⚛ | Flask 🔥 | C++ (Basics) | Bootstrap & Tailwind 🌊
 
-🔹 Passion: Web Development 🌍
+🔹 Passion: Development 🌍
 
 🔹 Cool Project Alert: Meheng – My AI voice assistant with 21+ features! 🎙🤖
 
