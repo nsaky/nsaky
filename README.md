@@ -3,7 +3,7 @@
 
 👨‍💻 Code, Coffee, and Creativity! I build things for the web, experiment with AI, and occasionally break stuff just to fix it again.
 
-🔹 Tech Stack: Python 🐍 | MySQL 🛢 | JavaScript ⚡ | HTML & CSS 🎨 | React (Basics) ⚛ | Flask 🔥 | C++ (Basics) | Bootstrap & Tailwind 🌊
+🔹 Tech Stack: Python 🐍 | MySQL 🛢 | JavaScript ⚡ | HTML & CSS 🎨 | Flask 🔥 | C++ (Basics) | Bootstrap & Tailwind 🌊
 
 🔹 Passion: Development 🌍
 
